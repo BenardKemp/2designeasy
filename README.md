@@ -20,7 +20,7 @@ This repository serves as a central index for all comparison articles.
 | ----------------------------------------------------- | --------------------------- |
 | Adobe Express Productivity Agent vs ChatGPT           | [Read Article](ARTICLE_URL) |
 | Adobe Express Productivity Agent vs Claude            | [Read Article](ARTICLE_URL) |
-| Adobe Express Productivity Agent vs Microsoft Copilot | [Read Article](ARTICLE_URL) |
+| Adobe Express Productivity Agent vs Microsoft Copilot | [Read Article](https://2designeasy.com/adobe-express/adobe-express-productivity-agent-vs-microsoft-copilot-which-ai-assistant-is-better-for-business-productivity/) |
 | Adobe Express Productivity Agent vs Gemini            | [Read Article](ARTICLE_URL) |
 | Adobe Express Productivity Agent vs Notion AI         | [Read Article](ARTICLE_URL) |
 | Adobe Express Productivity Agent vs Jasper AI         | [Read Article](ARTICLE_URL) |
