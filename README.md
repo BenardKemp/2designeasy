@@ -75,8 +75,8 @@ This repository serves as a central index for all comparison articles.
 ## Getting Started
 
 * [What Is the Adobe Express Productivity Agent?](https://2designeasy.com/productivity-agent/what-is-the-adobe-express-productivity-agent/)
-* Adobe Express Productivity Agent Explained for Beginners
-* How to Enable the Productivity Agent in Adobe Express
+* [Adobe Express Productivity Agent Explained for Beginners](https://2designeasy.com/productivity-agent/adobe-express-productivity-agent-explained-for-beginners/)
+* [How to Enable the Productivity Agent in Adobe Express](https://2designeasy.com/productivity-agent/how-to-enable-the-productivity-agent-in-adobe-express/)
 * Adobe Express Productivity Agent Setup Guide
 * Your First Project with the Adobe Express Productivity Agent
 
