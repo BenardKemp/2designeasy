@@ -140,7 +140,7 @@ These comparison guides help you determine which AI tools work best individually
 
 # About
 
-This repository accompanies a growing collection of Adobe Express Productivity Agent tutorials, guides, comparisons, and workflow articles.
+This repository accompanies a growing collection of [Adobe Express Productivity Agent tutorials, guides, comparisons, and workflow articles](https://2designeasy.com).
 
 If you're interested in AI-powered content creation, marketing automation, social media design, and Adobe Express workflows, bookmark this repository and check back regularly for new comparisons.
 
